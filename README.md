@@ -1,6 +1,8 @@
 # Incubyte_Assignment
 Feature: Gmail Compose Functionality
 
+BDD TestCases Link : https://1drv.ms/x/c/25e767a6225da4f5/IQAEDTJMeYPcR5sUMfyo75gkARo34iyKKoJ3i6K6RgsYSyI?e=6WgYwi
+
 Scenario: Send email successfully
 Given user is logged into Gmail
 When user clicks on Compose button
